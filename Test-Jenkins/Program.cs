@@ -10,6 +10,7 @@ namespace Test_Jenkins
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
